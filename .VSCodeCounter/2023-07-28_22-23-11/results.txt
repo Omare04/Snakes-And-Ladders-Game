@@ -1,0 +1,96 @@
+Date : 2023-07-28 22:23:11
+Directory : /Users/omarelmasaoudi/Desktop/Snakes and ladders game
+Total : 59 files,  6768 codes, 674 comments, 383 blanks, all 7825 lines
+
+Languages
++-----------------------+------------+------------+------------+------------+------------+
+| language              | files      | code       | comment    | blank      | total      |
++-----------------------+------------+------------+------------+------------+------------+
+| HTML                  |         23 |      2,616 |         91 |         23 |      2,730 |
+| compressionTargetFile |         15 |      2,158 |          0 |        129 |      2,287 |
+| CSS                   |          4 |        941 |        107 |         12 |      1,060 |
+| Java                  |          6 |        504 |        427 |        167 |      1,098 |
+| JavaScript            |          9 |        459 |         49 |         19 |        527 |
+| Markdown              |          2 |         90 |          0 |         33 |        123 |
++-----------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                             | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                |         59 |      6,768 |        674 |        383 |      7,825 |
+| . (Files)                                                                                                        |         30 |      3,865 |        634 |        231 |      4,730 |
+| images                                                                                                           |          1 |      1,720 |          0 |         16 |      1,736 |
+| index-files                                                                                                      |          9 |        662 |         27 |          9 |        698 |
+| legal                                                                                                            |          2 |         90 |          0 |         33 |        123 |
+| resources                                                                                                        |          2 |         13 |          0 |          0 |         13 |
+| script-dir                                                                                                       |         15 |        418 |         13 |         94 |        525 |
+| script-dir (Files)                                                                                               |          4 |          4 |         13 |          4 |         21 |
+| script-dir/images                                                                                                |         11 |        414 |          0 |         90 |        504 |
++------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------------+-----------------------+------------+------------+------------+------------+
+| filename                                                                                                         | language              | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------+-----------------------+------------+------------+------------+------------+
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/ActionListener.java                                        | Java                  |          2 |          0 |          3 |          5 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/Snakes_and_ladders.class                                   | Java                  |         34 |          0 |          0 |         34 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/Snakes_and_ladders.html                                    | HTML                  |        554 |          9 |          1 |        564 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/Snakes_and_ladders.java                                    | Java                  |        199 |        218 |         53 |        470 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/allclasses-index 2.html                                    | HTML                  |         79 |          3 |          1 |         83 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/allclasses-index 3.html                                    | HTML                  |         79 |          3 |          1 |         83 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/allclasses-index.html                                      | HTML                  |         79 |          3 |          1 |         83 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/allpackages-index.html                                     | HTML                  |         61 |          3 |          1 |         65 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/copy.svg                                                   | compressionTargetFile |         11 |          0 |         23 |         34 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/driver.html                                                | HTML                  |        197 |          9 |          1 |        207 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/driver.java                                                | Java                  |         55 |         42 |         21 |        118 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/gamepage.html                                              | HTML                  |        191 |          9 |          1 |        201 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/gamepage.java                                              | Java                  |        151 |        112 |         62 |        325 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/help-doc.html                                              | HTML                  |        181 |          3 |          1 |        185 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/images/board.png                                           | compressionTargetFile |      1,720 |          0 |         16 |      1,736 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-1.html                                   | HTML                  |         68 |          3 |          1 |         72 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-2.html                                   | HTML                  |         64 |          3 |          1 |         68 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-3.html                                   | HTML                  |         62 |          3 |          1 |         66 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-4.html                                   | HTML                  |         62 |          3 |          1 |         66 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-5.html                                   | HTML                  |        110 |          3 |          1 |        114 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-6.html                                   | HTML                  |         62 |          3 |          1 |         66 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-7.html                                   | HTML                  |         62 |          3 |          1 |         66 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-8.html                                   | HTML                  |        112 |          3 |          1 |        116 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index-files/index-9.html                                   | HTML                  |         60 |          3 |          1 |         64 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/index.html                                                 | HTML                  |         25 |          1 |          1 |         27 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/jquery-ui.overrides.css                                    | CSS                   |          8 |         25 |          2 |         35 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/legal/jquery.md                                            | Markdown              |         54 |          0 |         19 |         73 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/legal/jqueryUI.md                                          | Markdown              |         36 |          0 |         14 |         50 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/member-search-index.js                                     | JavaScript            |          1 |          0 |          0 |          1 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/module-search-index.js                                     | JavaScript            |          1 |          0 |          0 |          1 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/overview-tree.html                                         | HTML                  |         70 |          3 |          1 |         74 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/package-search-index.js                                    | JavaScript            |          1 |          0 |          0 |          1 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/package-summary.html                                       | HTML                  |        104 |          3 |          1 |        108 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/package-tree.html                                          | HTML                  |         70 |          3 |          1 |         74 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/package-use.html                                           | HTML                  |         71 |          3 |          1 |         75 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/resources/glass.png                                        | compressionTargetFile |          8 |          0 |          0 |          8 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/resources/x.png                                            | compressionTargetFile |          5 |          0 |          0 |          5 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png          | compressionTargetFile |          6 |          0 |          0 |          6 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-bg_glass_65_dadada_1x400.png          | compressionTargetFile |          4 |          0 |          0 |          4 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-bg_glass_75_dadada_1x400.png          | compressionTargetFile |          4 |          0 |          0 |          4 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png          | compressionTargetFile |          4 |          0 |          0 |          4 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png          | compressionTargetFile |          7 |          0 |          0 |          7 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png | compressionTargetFile |          5 |          0 |          0 |          5 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-icons_222222_256x240.png              | compressionTargetFile |         78 |          0 |          0 |         78 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-icons_2e83ff_256x240.png              | compressionTargetFile |         36 |          0 |          0 |         36 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-icons_454545_256x240.png              | compressionTargetFile |         70 |          0 |          0 |         70 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-icons_888888_256x240.png              | compressionTargetFile |         74 |          0 |          0 |         74 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/images/ui-icons_cd0a0a_256x240.png              | compressionTargetFile |        126 |          0 |         90 |        216 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/jquery-3.5.1.min.js                             | JavaScript            |          1 |          1 |          1 |          3 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/jquery-ui.min.css                               | CSS                   |          1 |          5 |          1 |          7 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/jquery-ui.min.js                                | JavaScript            |          1 |          4 |          1 |          6 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script-dir/jquery-ui.structure.min.css                     | CSS                   |          1 |          3 |          1 |          5 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/script.js                                                  | JavaScript            |        115 |         15 |         11 |        141 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/search.js                                                  | JavaScript            |        337 |         29 |          6 |        372 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/startingpage.html                                          | HTML                  |        193 |          9 |          1 |        203 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/startingpage.java                                          | Java                  |         63 |         55 |         28 |        146 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/stylesheet.css                                             | CSS                   |        931 |         74 |          8 |      1,013 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/tag-search-index.js                                        | JavaScript            |          1 |          0 |          0 |          1 |
+| /Users/omarelmasaoudi/Desktop/Snakes and ladders game/type-search-index.js                                       | JavaScript            |          1 |          0 |          0 |          1 |
+| Total                                                                                                            |                       |      6,768 |        674 |        383 |      7,825 |
++------------------------------------------------------------------------------------------------------------------+-----------------------+------------+------------+------------+------------+
